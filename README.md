@@ -1,6 +1,14 @@
-# barcode-scanner
+# Web-based barcode scanner
 
-## Project setup
+Greetings! 👋
+
+## Demo
+
+Demo here: https://matusmarcin.com/barcode/
+
+## Development stuff, auto generated
+
+### Project setup
 ```
 yarn install
 ```
